@@ -1,2 +1,2 @@
-# pitonchik
+# python
 python labs
